@@ -10,11 +10,11 @@
  */
 
 public class MatchMaker implements IMatchMaker {
-	Queue<Player> ironQueue;
-	Queue<Player> bronzeQueue;
-	Queue<Player> silverQueue;
-	Queue<Player> goldQueue;
-	Queue<Player> platinumQueue;
+	private final Queue<Player> ironQueue;
+	private final Queue<Player> bronzeQueue;
+	private final Queue<Player> silverQueue;
+	private final Queue<Player> goldQueue;
+	private final Queue<Player> platinumQueue;
 	private final Queue<Player> emeraldQueue;
 	private final Queue<Player> diamondQueue;
 
