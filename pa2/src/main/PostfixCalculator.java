@@ -7,13 +7,11 @@ public class PostfixCalculator implements IPostfixCalculator
 {   
     // you may declare additional variables here.
     Stack<Integer> stack;
-    Queue<String> queue;
 
     public PostfixCalculator()
     {
         // implement your constructor here.
         stack = new Stack<Integer>();
-        queue = new Queue<String>();
     }
 
 
@@ -34,22 +32,8 @@ public class PostfixCalculator implements IPostfixCalculator
         *       the evaluation will an intermediate value be large enough to
         *       overflow the Java int type. However, it can go below 0.
         */
-        while (exp.length() > 0) {
-            if (exp.charAt(0) == ' ') {
-                exp = exp.substring(1);
-                continue;
-            }
-            String token = "";
-            while (exp.length() > 0 && exp.charAt(0) != ' ') {
-                token += exp.charAt(0);
-                exp = exp.substring(1);
-            }
-            queue.enqueue(token);
-        }
-
-        int size = queue.getSize();
-        for (int i = 0; i < size; i++) {
-            String token = queue.dequeue();
+        String[] tokens = exp.split(" ");
+        for (String token : tokens) {
             switch (token) {
                 case "+": {
                     int a = stack.pop();

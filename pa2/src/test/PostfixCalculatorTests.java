@@ -44,4 +44,28 @@ public class PostfixCalculatorTests {
             assertThat(p.evaluate("3 5 - 7 9 11 - x x"), is(28));
         });
     }
+
+    @Test
+    @Score(1)
+    public void test5() {
+        assertTimeoutPreemptively(Duration.ofSeconds(1), () -> {
+            IPostfixCalculator p = new PostfixCalculator();
+            assertThat(p.evaluate("3 5 - 7 x"), is(-14));
+        });
+    }
+
+    @Test
+    @Score(1)
+    public void test6() {
+        String exp = "100001 1 - 100001 1 - -";
+        for (int i=0; i< 1000000; i++){
+            exp += " 100001 1 - 100001 1 - - +";
+        }
+        String finalExp = exp;
+        assertTimeoutPreemptively(Duration.ofSeconds(1), () -> {
+            IPostfixCalculator p = new PostfixCalculator();
+            assertThat(p.evaluate(finalExp), is(0));
+        });
+    }
+
 }
