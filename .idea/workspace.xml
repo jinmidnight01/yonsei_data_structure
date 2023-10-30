@@ -6,84 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e8385ca0-2ded-4c5c-b657-213a80f0cdca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/7.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/7.2/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/7.2/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/7.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/7.2/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/2018121022.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/IMatchMaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/IPostfixCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/IQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/IStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/MatchMaker$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/MatchMaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/MatchMakerTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/PostfixCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/PostfixCalculatorTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/QueueTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/StackTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/main/Tier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/IMatchMaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/IPostfixCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/IQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/IStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/MatchMaker$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/MatchMaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/PostfixCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/classes/java/rtest/Tier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/build/tmp/compileRtestJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/lib/testrunner.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/base/IMatchMaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/base/IPostfixCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/base/IQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/base/IStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/base/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/base/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/base/Tier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/main/2018121022.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/main/MatchMaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/main/PostfixCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/main/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/main/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/test/MatchMakerTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/test/PostfixCalculatorTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/test/QueueTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa2/src/test/StackTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +50,8 @@
       <workItem from="1697007700317" duration="1093000" />
       <workItem from="1697012711348" duration="204000" />
       <workItem from="1697084080041" duration="590000" />
+      <workItem from="1697419476721" duration="29000" />
+      <workItem from="1698561768604" duration="586000" />
     </task>
     <servers />
   </component>
